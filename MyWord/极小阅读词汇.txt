@@ -4893,6 +4893,7 @@ finance
 finances
 financial
 financially
+financing
 Finch
 find
 finding
@@ -8382,6 +8383,7 @@ newsgroup
 newsletter
 newspaper
 newspapers
+newsroom
 newsstand
 newt
 newton
@@ -10511,6 +10513,7 @@ researched
 researcher
 researchers
 researching
+reseller
 resemblance
 resemble
 resembles

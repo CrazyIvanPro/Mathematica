@@ -213,7 +213,7 @@ VocabularyReading;
   \:65b0\:751f\:8bcd = wordsNew~Join~\:751f\:8bcd\:8868; 
   fileToCopy =  FileNameJoin[{dirHome, "\:8bcd\:6c47\:5e93\:5907\:4efd\\\:751f\:8bcd\:8868" <> 
     Block[{$DateStringFormat = {"Month", "-", "Day", "-", "Year", "-", "Hour", "-", "Minute", "-", "Second"}},
-     DateString[]] <> "Length" <> ToString[Length@\:65b0\:751f\:8bcd] <> ".txt"}];
+     DateString[]] <> "Leng\:5728\[CenterDot]th" <> ToString[Length@\:65b0\:751f\:8bcd] <> ".txt"}];
      
   If[FileExistsQ[fileToCopy], DeleteFile[fileToCopy];CopyFile[\:751f\:8bcd\:672cfileToExport, fileToCopy], 
    CopyFile[\:751f\:8bcd\:672cfileToExport, fileToCopy]]; 
